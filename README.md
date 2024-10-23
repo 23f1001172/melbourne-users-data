@@ -1,0 +1,3 @@
+- I scraped the data using the GitHub API by iterating over users in Melbourne with over 100 followers and collecting their repositories.
+- The most interesting fact was that a significant number of top developers are not actively contributing to repositories with many stars or watchers.
+- Developers should consider exploring more collaborative work in popular open-source projects to gain visibility and improve their portfolios.
