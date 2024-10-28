@@ -1,10 +1,10 @@
-# GitHub Users in Delhi
+# GitHub Users in Melbourne
 
-This repository contains data about GitHub users in Delhi with over 100 followers and their repositories.
+This repository contains data about GitHub users in Melbourne with over 100 followers and their repositories.
 
 ## Files
 
-1. `users.csv`: Contains information about 337 GitHub users in Delhi with over 100 followers
+1. `users.csv`: Contains information about 337 GitHub users in Melbourne with over 100 followers
 2. `repositories.csv`: Contains information about 29202 public repositories from these users
 3. `gitscrap.py`: Python script used to collect this data
 
